@@ -1,4 +1,4 @@
-[MAheui](../) / [맣셈블리](./README.md/)
+[MAheui](../README.md) / [맣셈블리](./README.md/)
 
 # MAhsembly
 

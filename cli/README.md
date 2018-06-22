@@ -1,4 +1,4 @@
-[MAheui](../) / [CLI](./README.md/)
+[MAheui](../README.md) / [CLI](./README.md/)
 
 # MAheui CLI
 

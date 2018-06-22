@@ -1,4 +1,4 @@
-[MAheui](./) / [용어집](./Glossaries.md/)
+[MAheui](./README.md) / [용어집](./Glossaries.md/)
 
 # Glossaries
 

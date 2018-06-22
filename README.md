@@ -1,4 +1,4 @@
-[MAheui](./) /
+[MAheui](./README.md) /
 
 # MAheui
 MAheui\[Modularized Aheui/마희\]는 모듈화된 아희에 대한 명세입니다.

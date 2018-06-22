@@ -1,4 +1,4 @@
-[MAheui](./) / [표기법](./Notations.md/)
+[MAheui](./README.md) / [표기법](./Notations.md/)
 
 # Notations
 

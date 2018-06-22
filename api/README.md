@@ -1,4 +1,4 @@
-[MAheui](../) / [API](./README.md/)
+[MAheui](../README.md) / [API](./README.md/)
 
 # MAheui API
 
