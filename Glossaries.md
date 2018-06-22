@@ -1,3 +1,5 @@
+[MAheui](./) / [용어집](./Glossaries.md/)
+
 # Glossaries
 
 본 명세 문서에 사용되는 용어의 해석입니다.

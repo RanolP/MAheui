@@ -1,3 +1,5 @@
+[MAheui](../) / [CLI](./README.md/)
+
 # MAheui CLI
 
 마희 CLI에 대한 명세입니다. (알파희/아희++ 와의 호환성을 고려합니다.)

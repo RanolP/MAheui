@@ -1,3 +1,5 @@
+[MAheui](./) / [표기법](./Notations.md/)
+
 # Notations
 
 본 명세 문서에 사용되는 표기들의 뜻 해석입니다.
