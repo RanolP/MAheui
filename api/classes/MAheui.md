@@ -1,3 +1,5 @@
+[MAheui](../../README.md) / [API](../README.md/) / [classes/MAheui](./MAheui.md)
+
 # MAheui
 
 마희 코드를 조정하는 클래스입니다.

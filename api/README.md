@@ -9,10 +9,11 @@
 Classes
  * [MAheui](./classes/MAheui.md)
  * [MAheuiOption](./classes/MAheuiOption.md)
+ * [MAheuiStorage](./classes/MAheuiStorage.md)
 
 Enums
- * [MAheui](./classes/MAheui.md)
- * [MAheuiOption](./classes/MAheuiOption.md)
+ * [MAheuiProgramType](./enums/MAheuiProgramType.md)
+ * [MAheuiVersion](./enums/MAheuiVersion.md)
 
 Interfaces
  * [Version](./interfaces/Version.md)
